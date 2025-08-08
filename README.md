@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alexihayek
 - 👀 I’m interested in Software Engineering, software development, cybersecurity
-- 🌱 I’m currently learning Civil Engineering, will change to Software engineering mnext year 
 - 💞️ I’m looking to collaborate on Open source projects to gain relevant experience
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
